@@ -6,5 +6,5 @@ Use the bottom slider to specify every how many minutes CLOCK saves its state.
 
 <br/>
 
-![](https://github.com/tfari/CLOCK/blob/main/clock_interface.png)
+![](https://github.com/tfari/M4L-Projects/blob/main/CLOCK/clock_interface.png)
 <br/>
