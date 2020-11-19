@@ -15,6 +15,7 @@ Place before an External Instrument.
 <br/>
 "Reset" resets the device to default values, "Dump" sends the value of all controlls to the minilogue. The small round buttons besides some knobs are to reset the knob to central values, mostly pitches, etc.
 "Random" randomizes all parameters, small red buttons near some of the controls serve to randomize those parts only: 
+
  
  + VCO 1 
  + VCO 2 
