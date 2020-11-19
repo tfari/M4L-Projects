@@ -1,8 +1,13 @@
 # M4L Projects
- Collection of Max4Live projects.
- 
-* [MIDI_DEVICES](README.md#midi-devices)
-* [AUDIO_DEVICES](audio-devices)
+Collection of Max4Live projects.
+
+**Contents:**
+* [**Midi_Devices**](#midi-devices)
+  * [Minilogue_Interface](#minilogue_interface)
+  * [MIDI_MAPPER](#midi_mapper)
+  * [MIDI_FILTER](#midi_filter)
+* [**Audio_Devices**](#audio-devices)
+  * [CLOCK](#clock)
 
 ## MIDI DEVICES:
 
