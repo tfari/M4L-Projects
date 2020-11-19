@@ -1,9 +1,9 @@
-### Minilogue_Interface
+# Minilogue_Interface
 
 Max4Live KORG Minilogue interface. 
 <br/>
 
-![](https://github.com/tfari/Minilogue_Interface/blob/master/interface.png)
+![](https://github.com/tfari/M4L-Projects/blob/main/Minilogue_Interface/minilogue_interface.png)
 <br/>
 
 Implements controls for every knob and switch so as to provide a ground for midi programming.
