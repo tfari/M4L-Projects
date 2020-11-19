@@ -4,12 +4,12 @@
 ## MIDI DEVICES:
 
 ### [Minilogue_Interface](Minilogue_Interface):
-KORG Minilogue interface. Implements controls for every knob and switch so as to provide a ground for midi programming.
+KORG Minilogue interface.
 
 ![](https://github.com/tfari/M4L-Projects/blob/main/Minilogue_Interface/minilogue_interface.png)
 
 ### [MIDI_MAPPER](MIDI_MAPPER):
-Map Velocity and Key Track of incoming MIDI notes to any parameter.
+Map Velocity and Key Track of incoming MIDI notes to any parameter in Live.
 
 ![](https://github.com/tfari/M4L-Projects/blob/main/MIDI_MAPPER/midi_mapper_interface.png) ![](https://github.com/tfari/M4L-Projects/blob/main/MIDI_MAPPER/midi_mapper_interface2.png)
 
