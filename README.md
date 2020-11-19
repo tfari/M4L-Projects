@@ -2,11 +2,11 @@
 Collection of Max4Live projects.
 
 **Contents:**
-* [Midi Devices](#midi-devices)
+* [MIDI DEVICES](#midi-devices)
   * [Minilogue_Interface](#minilogue_interface)
   * [MIDI_MAPPER](#midi_mapper)
   * [MIDI_FILTER](#midi_filter)
-* [Audio Devices](#audio-devices)
+* [AUDIO DEVICES](#audio-devices)
   * [CLOCK](#clock)
 
 ## MIDI DEVICES:
