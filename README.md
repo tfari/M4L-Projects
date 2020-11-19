@@ -1,5 +1,8 @@
 # M4L Projects
  Collection of Max4Live projects.
+ 
+* [MIDI_DEVICES](README.md#midi-devices)
+* [AUDIO_DEVICES](README.md#audio-devices)
 
 ## MIDI DEVICES:
 
