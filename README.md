@@ -2,7 +2,7 @@
  Collection of Max4Live projects.
  
 * [MIDI_DEVICES](README.md#midi-devices)
-* [AUDIO_DEVICES](#audio-devices)
+* [AUDIO_DEVICES](audio-devices)
 
 ## MIDI DEVICES:
 
