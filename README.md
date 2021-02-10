@@ -36,9 +36,8 @@ Latch MIDI notes.
 
 ### [CLOCK](CLOCK)
 Measure the total time spent working on a project.
-
 ![](https://github.com/tfari/M4L-Projects/blob/main/CLOCK/clock_interface.png)
 
 ### [IS_IT_CLIPPING](IS_IT_CLIPPING)
 Big red indicator for checking clipping between devices in a chain.
-![](https://github.com/tfari/M4L-Projects/blob/main/IS_IT_CLIPPING/is_it_clipping_interface.png
+![](https://github.com/tfari/M4L-Projects/blob/main/IS_IT_CLIPPING/is_it_clipping_interface.png)
