@@ -2,7 +2,7 @@
 
 Sit this device between devices in a chip to catch clipping.
 The big button will become bright red when there is clipping, and won't turn off until the user manually toggles it.
-This is specially useful when using external plugins, refer to [this](https://www.youtube.com/watch?t=433&v=CGRusg9GnAg&feature=youtu.be){:target="_blank" rel="noopener"}
+This is specially useful when using external plugins, refer to [this](https://www.youtube.com/watch?t=433&v=CGRusg9GnAg&feature=youtu.be)
 
 <br/>
 
