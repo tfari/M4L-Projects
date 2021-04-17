@@ -49,7 +49,7 @@ Map knobs to CC messages, useful for implementing hardware controllers on the fl
 
 
 ### [PRGRMChange](PRGRMChange):
-Change programs via Program Change controsl, or MSB/LSB combinations.
+Change programs via Program Change controls or MSB/LSB combinations.
 
 ![](https://github.com/tfari/M4L-Projects/blob/main/PRGRMChange/prgrmchange_interface.png)
 
