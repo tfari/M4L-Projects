@@ -12,9 +12,9 @@ Implements controls so as to provide a ground for midi programming.
 
 Controls are color coded:
 
-* Blue tinted controls are display only. 
-* Yellow tinted controls are modulable.  
-* Red tinted controls are internal to the device.  
+* _**Blue**_ tinted controls are display only. 
+* _**Yellow**_ tinted controls are modulable.  
+* _**Red**_ tinted controls are internal to the device.  
 
 All modulable controls have two circle buttons:
 
@@ -32,7 +32,7 @@ The VCOs controls have three modes (and respective sliders):
 
 There are 4 random buttons in the CTRLS section:
 
-* _**Random**_ randomizes every modulable control.
-* _**Random Ctrl**_ randomizes everything but the VCOS.
-* _**Random VCOS**_ does the opposite. 
-* _**Total Random**_ randomizes everything plus the display-only ones. This is useful to, for example, come up with entirely new patches.
+* _**RANDOM**_ randomizes every modulable control.
+* _**RANDOM CTRL**_ randomizes everything but the VCOS.
+* _**RANDOM VCOS**_ does the opposite. 
+* _**TOTAL RANDOM**_ randomizes everything plus the display-only ones. This is useful to, for example, come up with entirely new patches.
