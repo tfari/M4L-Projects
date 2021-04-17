@@ -19,20 +19,20 @@ Controls are color coded:
 All modulable controls have two circle buttons:
 
 * One _**RED**_, for randomizing the value.
-* One BLUE, for resetting the controls to their default values.
+* One _**BLUE**_, for resetting the controls to their default values.
 
-**Every section has a RANDOM/DEFAULT pair of buttons, which does respectively for the whole section.**
+_**Every section has a RANDOM/DEFAULT pair of buttons, which does respectively for the whole section.**_
 
 The VCOs controls have three modes (and respective sliders):
 
-* **ST:** which constrain the control to semitone changes.
-* **C:** which constrains the control to cents changes.
-* **BOTH:** which holds the full width of the pitch controls. 
-* **Whichever mode is selected, only that slider works.**
+* _**ST:**_ which constrain the control to semitone changes.
+* _**C:**_ which constrains the control to cents changes.
+* _**BOTH:**_ which holds the full width of the pitch controls. 
+* _**Whichever mode is selected, only that slider works.**_
 
 There are 4 random buttons in the CTRLS section:
 
-* **Random** randomizes every modulable control.
-* **Random Ctrl** randomizes everything but the VCOS.
-* **Random VCOS** does the opposite. 
-* **Total Random** randomizes everything plus the display-only ones.This is useful to for example come up with new patches.
+* _**Random**_ randomizes every modulable control.
+* _**Random Ctrl**_ randomizes everything but the VCOS.
+* _**Random VCOS**_ does the opposite. 
+* _**Total Random**_ randomizes everything plus the display-only ones. This is useful to, for example, come up with entirely new patches.
