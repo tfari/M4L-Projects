@@ -3,6 +3,7 @@ Collection of Max4Live projects.
 
 **Contents:**
 * [MIDI DEVICES](#midi-devices)
+  * [VolcaBass_Interface](#volcabass_interface)
   * [Minilogue_Interface](#minilogue_interface)
   * [MIDI_MAPPER](#midi_mapper)
   * [MIDI_FILTER](#midi_filter)
@@ -14,8 +15,13 @@ Collection of Max4Live projects.
 
 ## MIDI DEVICES:
 
+### [VolcaBass_Interface](VolcaBass_Interface):
+KORG VolcaBass Interface.
+
+![](https://github.com/tfari/M4L-Projects/blob/main/VolcaBass_Interface/volcabass_interface_interface.png)
+
 ### [Minilogue_Interface](Minilogue_Interface):
-KORG Minilogue interface.
+KORG Minilogue Interface.
 
 ![](https://github.com/tfari/M4L-Projects/blob/main/Minilogue_Interface/minilogue_interface.png)
 
