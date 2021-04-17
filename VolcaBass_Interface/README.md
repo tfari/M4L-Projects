@@ -25,14 +25,14 @@ All modulable controls have two circle buttons:
 
 The VCOs controls have three modes (and respective sliders):
 
-* ST, which constrain the control to semitone changes.
-* C, which constrains the control to cents changes.
-* BOTH, which holds the full width of the pitch controls. 
-* **Whichever mode is selected, makes the value in the respective slider count.**
+* **ST:** which constrain the control to semitone changes.
+* **C:** which constrains the control to cents changes.
+* **BOTH:** which holds the full width of the pitch controls. 
+* **Whichever mode is selected, only that slider works. **
 
 There are 4 random buttons in the CTRLS section:
 
-* "Random" randomizes every modulable control.
-* "Random Ctrl" randomizes everything but the VCOS.
-* "Random VCOS" does the opposite. 
-* "Total Random", randomizes everything plus the display-only ones.This is useful to for example come up with new patches.
+* **Random** randomizes every modulable control.
+* **Random Ctrl** randomizes everything but the VCOS.
+* **Random VCOS" does the opposite. 
+* **Total Random** randomizes everything plus the display-only ones.This is useful to for example come up with new patches.
