@@ -18,7 +18,7 @@ Controls are color coded:
 
 All modulable controls have two circle buttons:
 
-* One RED, for randomizing the value.
+* One _**RED**_, for randomizing the value.
 * One BLUE, for resetting the controls to their default values.
 
 **Every section has a RANDOM/DEFAULT pair of buttons, which does respectively for the whole section.**
