@@ -9,6 +9,7 @@ Collection of Max4Live projects.
   * [MIDI_FILTER](#midi_filter)
   * [MIDI_LATCH](#midi_latch)
   * [CC_MAPPER](#cc_mapper)
+  * [PRGRMChange](#prgrmchange)
 * [AUDIO DEVICES](#audio-devices)
   * [CLOCK](#clock)
   * [IS_IT_CLIPPING](#is_it_clipping)
@@ -43,9 +44,14 @@ Latch MIDI notes.
 ### [CC_MAPPER](CC_MAPPER):
 Map knobs to CC messages, useful for implementing hardware controllers on the fly. Version with 16 knobs included for Live 11 new racks.
 
-
 ![](https://github.com/tfari/M4L-Projects/blob/main/CC_MAPPER/cc_mapper_interface.png)
 ![](https://github.com/tfari/M4L-Projects/blob/main/CC_MAPPER/cc_mapper_interface2.png)
+
+
+### [PRGRMChange](PRGRMChange):
+Change programs via Program Change controsl, or MSB/LSB combinations.
+
+![](https://github.com/tfari/M4L-Projects/blob/main/PRGRMChange/prgrmchange_interface.png)
 
  
 ## AUDIO DEVICES:
